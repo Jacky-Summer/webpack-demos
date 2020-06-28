@@ -1,0 +1,9 @@
+@import './avatar.scss';
+
+body {
+  .avatar {
+    width: 400px;
+    height: 400px;
+    transform: translate(10px, 10px);
+  }
+}
