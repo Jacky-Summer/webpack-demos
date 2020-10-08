@@ -1,0 +1,2 @@
+var root = document.getElementById('root')
+root.innerHTML = '<div>123456</div>'
