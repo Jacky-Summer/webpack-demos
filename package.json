@@ -1,0 +1,29 @@
+{
+  "name": "webpack-demos",
+  "version": "1.0.0",
+  "description": "a collection of demos of Webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "commitizen": "^4.2.2",
+    "cz-conventional-emoji": "^1.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-emoji"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky-Summer/webpack-demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky-Summer/webpack-demos/issues"
+  },
+  "homepage": "https://github.com/Jacky-Summer/webpack-demos#readme"
+}
